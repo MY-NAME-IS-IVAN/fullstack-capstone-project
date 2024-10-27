@@ -8,7 +8,7 @@ export default function Navbar() {
                 <ul className="navbar-nav">
 
                     <li className="nav-item">
-                    <a className="nav-link" href="/home.html">Home</a> {/* Link to home.html */}
+                        <a className="nav-link" href="/home.html">Home</a> {/* Link to home.html */}
                     </li>
                     <li className="nav-item">
                         <a className="nav-link" href="/app">Gifts</a> {/* Updated Link */}
